@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a Computer Science Engineering undergraduate with a strong interest in software development, data structures, and problem-solving. I am passionate about building efficient, scalable solutions and continuously improving my technical and analytical skills.<br><br>I enjoy learning core computer science concepts and applying them through hands-on projects and competitive programming. Alongside academics, I focus on writing clean, readable code and following best development practices.<br><br>I am currently exploring:<br><br>Data Structures and Algorithms (Java)<br><br>Object-Oriented Programming<br><br>Problem-solving through real-world applications<br><br>Fundamental concepts of full-stack development<br><br>I believe in consistent learning, discipline, and self-improvement, and I am always open to collaborating on meaningful projects and learning from the developer community.
 
 
